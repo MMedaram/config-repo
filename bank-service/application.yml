@@ -1,5 +1,9 @@
-bank-service:
+# config-repo/bank-service/application.yml
+spring:
+  application:
+    name: bank-service
+
+bank:
   bankName: MGDMN
   branchCode: 001
   address: Chittoor
-
