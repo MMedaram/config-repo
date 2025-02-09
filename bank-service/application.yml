@@ -1,9 +1,9 @@
 # config-repo/bank-service/application.yml
 spring:
   application:
-    name: bank-service
+    name: branch-service
 
-bank:
+branch:
   bankName: MGDMN
   branchCode: 001
   address: Chittoor
