@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: branch-service
+
+branch:
+  bankName: MGDMN1
+  branchCode: ABC
+  address: Chittoor1
